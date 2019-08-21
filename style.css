@@ -30,9 +30,27 @@ article{
 }
 /* aside style */ 
 aside{
-    background: #ebebeb
+    background: #ebebeb;
 }
 /* footer style*/
 footer{
+    background: #ebebeb;
+}
+/* h type tags */
+h1{
+color: #777;
+background: #ebebeb;
+}
+
+h2{
+    color: black;
+}
+
+h3{
+    color: black;
+}
+/* p tags */
+p{
+    color: #777;
     background: #ebebeb
 }
