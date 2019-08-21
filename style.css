@@ -2,7 +2,9 @@
 header{
     text-align: center;
     color: black;
-    background: #ebebeb
+    background: #ebebeb;
+    padding: 20px;
+    margin: 15px;
 }
 
 /*body stle */
@@ -16,12 +18,16 @@ body{
 /* nav style */
 nav{
     background: #ebebeb;
-
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 15px;
 }
 /* section style */
 section{
     background: #ebebeb;
     width: 495px; 
+    color: black;
 }
 /* artical style */ 
 article{
@@ -52,5 +58,5 @@ h3{
 /* p tags */
 p{
     color: #777;
-    background: #ebebeb
+    background: #ebebeb;
 }
