@@ -23,6 +23,11 @@ nav{
     padding: 20px;
     margin: 15px;
 }
+/* wrapper */
+.wrapper{
+    max-width: 600px;
+    margin: 5px auto;
+}
 /* dive clearfix */
 .clearfix::after{
     content: "";
