@@ -23,6 +23,18 @@ nav{
     padding: 20px;
     margin: 15px;
 }
+/* dive clearfix */
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+/* div box-conatiner */
+.box-container{
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
 /* section style */
 section{
     background: #ebebeb;
@@ -45,10 +57,17 @@ article{
 /* aside style */ 
 aside{
     background: #ebebeb;
+    width: 495px; 
+    height: 250px;
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
 }
 /* footer style*/
 footer{
     background: #ebebeb;
+    text-align: center;
+    padding: 20px;
 }
 /* h type tags */
 h1{
