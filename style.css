@@ -14,6 +14,7 @@ body{
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin: auto;
 }
 /* nav style */
 nav{
@@ -33,15 +34,18 @@ nav{
     content: "";
     clear: both;
     display: table;
+    overflow: hidden;
 }
 /* div box-conatiner */
 .box-container1{
     float: left;
     width: 50%;
     padding: 5px;
+    clear: left;
+    overflow: hidden;
 }
 .box-container2{
-    float: right;
+    float: left;
     width: 50%;
     padding: 5px;
 }
