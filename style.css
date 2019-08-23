@@ -52,7 +52,7 @@ nav{
 /* section style */
 section{
     background: #ebebeb;
-    width: 495px; 
+    width: 38.5%; 
     height: 250px;
     color: black;
     float: left;
@@ -71,7 +71,7 @@ article{
 /* aside style */ 
 aside{
     background: #ebebeb;
-    width: 495px; 
+    width: 40%; 
     height: 250px;
     padding: 30px;
     margin: 20px;
